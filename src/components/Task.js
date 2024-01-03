@@ -7,7 +7,7 @@ const Task = ({ task }) => {
       <div className="task-title">{task.title}</div>
       <div className="task-details">
         <div>Status: {task.status}</div>
-        <div>User: {task.user}</div>
+        <div>User: {task.userId}</div>
         <div>Priority: {task.priority}</div>
       </div>
     </div>
