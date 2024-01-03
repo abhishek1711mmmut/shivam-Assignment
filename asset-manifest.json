@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shivam-Assignment/static/css/main.8e204130.css",
-    "main.js": "/shivam-Assignment/static/js/main.b3ba8289.js",
+    "main.js": "/shivam-Assignment/static/js/main.c9081f03.js",
     "index.html": "/shivam-Assignment/index.html",
     "main.8e204130.css.map": "/shivam-Assignment/static/css/main.8e204130.css.map",
-    "main.b3ba8289.js.map": "/shivam-Assignment/static/js/main.b3ba8289.js.map"
+    "main.c9081f03.js.map": "/shivam-Assignment/static/js/main.c9081f03.js.map"
   },
   "entrypoints": [
     "static/css/main.8e204130.css",
-    "static/js/main.b3ba8289.js"
+    "static/js/main.c9081f03.js"
   ]
 }
